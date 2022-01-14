@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.logo-nav
+{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #41d6fc;
+    color: #FFFFFF;
+    padding: 10px 0;
+
+}
+.left-side-nav{
+    display: flex;
+    align-items: center;
+}
+.idea-left{
+    margin-left: 16px;
+    font-size: 25px;
+
+}
+.left-side-nav img{
+    width: 40.42px;
+    height: 51px;
+}
+.right-side-nav{
+display: flex;
+align-items:center ;
+}
+.right-side-nav-space{
+    margin-right: 10px;
+    font-size: 22px;
+}
+/*----------------main-----------------------*/
+.new-img{
+    width: 100%;
+    border-radius: 50%;
+}
